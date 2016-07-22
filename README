@@ -1,0 +1,12 @@
+The only caveat with this release is that the application doesn't do sanity checking on the
+saved window frame when you start up. This means that when you launch S/Key and move it
+to the lower-left corner of your 1280x1024 screen and close it, then change resolution to 640x480
+and start up S/Key again, you won't have the application on the screen.
+
+You can work around this by opening up Workspaces and swapping desktops. When you go back
+to the one you launched S/Key in, the tab will be visible allowing you to move the window. Note
+that this will save the location you move the window to even when you switch back to 640x480.
+
+I know it's ugly, but I don't know any good way of getting around it.
+
+					-bjc (20-05-97)

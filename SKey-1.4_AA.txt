@@ -1,0 +1,9 @@
+File:			SKey-1.4_AA.zip
+Author:		Brian Cully <shmit@kublai.com>
+Release:		1.4
+Compatibility:	AA:PR
+Location:		util/SKey-1.4.tar.gz
+Description:		This is an MD4 and MD5 s/key generator.
+Notes:		The secret key input field has been `fixed'. It now outputs english
+			text instead of hex (thanks to increased stack space in DR9), it
+			does drag and drop for the Seed and One Time Password views.
